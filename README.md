@@ -1,5 +1,6 @@
 # Telecom-churn-case-study
-Objectives
+Objectives-
+
 The main goal of the case study is to build ML models to predict churn. The predictive model that you’re going to build will the following purposes:
 
 It will be used to predict whether a high-value customer will churn or not, in near future (i.e. churn phase). By knowing this, the company can take action steps such as providing special plans, discounts on recharge etc.
